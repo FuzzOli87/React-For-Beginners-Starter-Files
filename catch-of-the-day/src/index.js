@@ -17,4 +17,5 @@ const Root = () => {
     </BrowserRouter>
   );
 };
+
 render(<Root />, document.getElementById('main'));
